@@ -1,9 +1,0 @@
-{
-  "totalattendancehours": "http://totalattendancehours.40297935.qpc.hal.davecutting.uk/?",
-  "studentengagementscore": "http://studentengagementscore.40297935.qpc.hal.davecutting.uk/?",
-  "riskofstudentfailure": "http://riskofstudentfailure.40297935.qpc.hal.davecutting.uk/?",
-  "canvasactivityintensity": "http://canvasactivityintensity.40297935.qpc.hal.davecutting.uk/?",
-  "maxmin": "http://maxmin.40297935.qpc.hal.davecutting.uk/?",
-  "sort": "http://sort.40297935.qpc.hal.davecutting.uk/?",
-  "proxy": "http://proxyrouter1.40297935.qpc.hal.davecutting.uk"
-}
